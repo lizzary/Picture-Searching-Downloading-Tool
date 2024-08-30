@@ -1,0 +1,8 @@
+{
+  "BrowserPath": "D:\\PyCharm Community Edition 2023.3.2\\PROJECT FILE\\PictureSearchBeta\\exe\\google\\chrome.exe",
+  "SavePath": "D:\\PyCharm Community Edition 2023.3.2\\PROJECT FILE\\PictureSearchBeta\\exe\\picture",
+  "Expression": "\\((.*?)\\)",
+  "UrlPrefix": "https://www.google.com.hk/search?as_st=y&hl=zh-TW&as_q=",
+  "UrlSuffix": "&as_epq=&as_oq=&as_eq=&imgsz=l&imgar=w&imgcolor=&imgtype=&cr=countryJP&as_sitesearch=&as_filetype=&tbs=&udm=2",
+  "DownloadSelectedRule": "t:img@|src:jpg@|src:jpeg@|src:webp@|src:png@|src:JPG@|src:gif"
+}
